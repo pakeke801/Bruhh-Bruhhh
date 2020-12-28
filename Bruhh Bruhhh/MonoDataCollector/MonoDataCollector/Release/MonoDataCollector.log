@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  Pipe.cpp
+  MonoDataCollector.cpp
+  PipeServer.cpp
+  dllmain.cpp
+     Creating library ..\..\bin\autorun\dlls\MonoDataCollector32.lib and object ..\..\bin\autorun\dlls\MonoDataCollector32.exp
+  Previous IPDB not found, fall back to full compilation.
+MonoDataCollector32.exp : warning LNK4070: /OUT:MonoDataCollector.dll directive in .EXP differs from output filename '..\..\bin\autorun\dlls\MonoDataCollector32.dll'; ignoring directive
+  Generating code
+  All 620 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+MonoDataCollector32.exp : warning LNK4070: /OUT:MonoDataCollector.dll directive in .EXP differs from output filename '..\..\bin\autorun\dlls\MonoDataCollector32.dll'; ignoring directive
+  MonoDataCollector.vcxproj -> H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\MonoDataCollector\MonoDataCollector\..\..\bin\autorun\dlls\MonoDataCollector32.dll

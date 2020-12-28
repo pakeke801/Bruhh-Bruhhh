@@ -1,0 +1,27 @@
+﻿  Building 'DBKKernel' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Releasewithoutsig\DBK32.inf
+  Stamping [Version] section with DriverVer=11/14/2020,7.36.6.101
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\DBKKernel\DBK32.inf(5-5): warning 1324: [Version] section should specify PnpLockdown=1.
+  Assembling i386\noexceptionsa.asm...
+  Assembling segmentinfo.asm...
+  DBKDrvr.c
+  DBKFunc.c
+  debugger.c
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\DBKKernel\debugger.c(1377,39): error C2220: the following warning is treated as an error
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\DBKKernel\debugger.c(1377,39): warning C4242: '=': conversion from 'QWORD' to 'UINT_PTR', possible loss of data
+  deepkernel.c
+  interruptHook.c
+  IOPLDispatcher.c
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\DBKKernel\IOPLDispatcher.c(2435,84): error C2220: the following warning is treated as an error
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\DBKKernel\IOPLDispatcher.c(2435,84): warning C4244: 'function': conversion from 'QWORD' to 'SIZE_T', possible loss of data
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\DBKKernel\IOPLDispatcher.c(2471,54): warning C4305: 'type cast': truncation from 'UINT64' to 'void *'
+  memscan.c
+  noexceptions.c
+  processlist.c
+  threads.c
+  ultimap.c
+  ultimap2.c
+  apic.c
+  vmxhelper.c
+  vmxoffload.c
+  Generating Code...

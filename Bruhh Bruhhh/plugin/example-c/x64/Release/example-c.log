@@ -1,0 +1,4 @@
+﻿  bla.cpp
+  example-c.c
+  Generating Code...
+LINK : fatal error LNK1181: cannot open input file 'lua53-64.lib'

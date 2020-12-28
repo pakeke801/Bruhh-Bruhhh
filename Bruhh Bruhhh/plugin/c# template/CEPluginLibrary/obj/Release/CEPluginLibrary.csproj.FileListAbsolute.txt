@@ -1,0 +1,7 @@
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\plugin\c# template\CEPluginLibrary\bin\Release\CEPluginExample.dll
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\plugin\c# template\CEPluginLibrary\bin\Release\CEPluginExample.pdb
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\plugin\c# template\CEPluginLibrary\obj\Release\CEPluginLibrary.PluginExampleForm.resources
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\plugin\c# template\CEPluginLibrary\obj\Release\CEPluginLibrary.csproj.GenerateResource.cache
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\plugin\c# template\CEPluginLibrary\obj\Release\CEPluginLibrary.csproj.CoreCompileInputs.cache
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\plugin\c# template\CEPluginLibrary\obj\Release\CEPluginExample.dll
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\plugin\c# template\CEPluginLibrary\obj\Release\CEPluginExample.pdb

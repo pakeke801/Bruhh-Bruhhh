@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  QWS.cpp
+     Creating library H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\plugin\QWS\\Output\QWS-x86.lib and object H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\plugin\QWS\\Output\QWS-x86.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 136 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  QWS.vcxproj -> H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\plugin\QWS\\Output\QWS-x86.dll

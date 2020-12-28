@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Pipe.cpp
+  MonoDataCollector.cpp
+  PipeServer.cpp
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\MonoDataCollector\MonoDataCollector\PipeServer.cpp(152,38): warning C4312: 'type cast': conversion from 'unsigned int' to 'HANDLE' of greater size
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\MonoDataCollector\MonoDataCollector\PipeServer.cpp(153,46): warning C4312: 'type cast': conversion from 'unsigned int' to 'HANDLE' of greater size
+  dllmain.cpp
+     Creating library ..\..\bin\autorun\dlls\MonoDataCollector64.lib and object ..\..\bin\autorun\dlls\MonoDataCollector64.exp
+MonoDataCollector64.exp : warning LNK4070: /OUT:MonoDataCollector.dll directive in .EXP differs from output filename '..\..\bin\autorun\dlls\MonoDataCollector64.dll'; ignoring directive
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 619 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+MonoDataCollector64.exp : warning LNK4070: /OUT:MonoDataCollector.dll directive in .EXP differs from output filename '..\..\bin\autorun\dlls\MonoDataCollector64.dll'; ignoring directive
+  MonoDataCollector.vcxproj -> H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\MonoDataCollector\MonoDataCollector\..\..\bin\autorun\dlls\MonoDataCollector64.dll

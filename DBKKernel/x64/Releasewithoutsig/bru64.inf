@@ -1,0 +1,82 @@
+;
+; bru64.inf
+;
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=System
+ClassGuid={4d36e97d-e325-11ce-bfc1-08002be10318}
+Provider=%ManufacturerName%
+CatalogFile=bru64.cat
+DriverVer = 11/14/2020,8.34.50.645
+
+[DestinationDirs]
+DefaultDestDir = 12
+bru64_Device_CoInstaller_CopyFiles = 11
+
+; ================= Class section =====================
+
+[SourceDisksNames]
+1 = %DiskName%,,,""
+
+[SourceDisksFiles]
+bru64.sys  = 1,,
+;
+
+
+;*****************************************
+; Install Section
+;*****************************************
+
+[Manufacturer]
+%ManufacturerName%=Standard,NTamd64
+
+[Standard.NTamd64]
+%bru64.DeviceDesc%=bru64_Device, Root\bru64 ; TODO: edit hw-id
+
+[bru64_Device.NT]
+CopyFiles=Drivers_Dir
+
+[Drivers_Dir]
+bru64.sys
+
+;-------------- Service installation
+[bru64_Device.NT.Services]
+AddService = bru64,%SPSVCINST_ASSOCSERVICE%, bru64_Service_Inst
+
+; -------------- bru64 driver install sections
+[bru64_Service_Inst]
+DisplayName    = %bru64.SVCDESC%
+ServiceType    = 1               ; SERVICE_KERNEL_DRIVER
+StartType      = 3               ; SERVICE_DEMAND_START
+ErrorControl   = 1               ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\bru64.sys
+
+;
+;--- bru64_Device Coinstaller installation ------
+;
+
+[bru64_Device.NT.CoInstallers]
+AddReg=bru64_Device_CoInstaller_AddReg
+CopyFiles=bru64_Device_CoInstaller_CopyFiles
+
+[bru64_Device_CoInstaller_AddReg]
+;
+
+
+[bru64_Device_CoInstaller_CopyFiles]
+;
+
+
+[bru64_Device.NT.Wdf]
+KmdfService =  bru64, bru64_wdfsect
+[bru64_wdfsect]
+KmdfLibraryVersion = 1.15
+
+[Strings]
+SPSVCINST_ASSOCSERVICE= 0x00000002
+ManufacturerName="Bruhh Bruhhh" ;TODO: Replace with your manufacturer name
+ClassName="System" ; TODO: edit ClassName
+DiskName = "bru64 Installation Disk"
+bru64.DeviceDesc = "bru64 Device"
+bru64.SVCDESC = "bru64 Service"

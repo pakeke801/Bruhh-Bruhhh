@@ -1,0 +1,9 @@
+D:\git\bruhh-bruhhh\Bruhh Bruhhh\bin\autorun\dlls\DotNetInterface.deps.json
+D:\git\bruhh-bruhhh\Bruhh Bruhhh\bin\autorun\dlls\DotNetInterface.dll
+D:\git\bruhh-bruhhh\Bruhh Bruhhh\bin\autorun\dlls\DotNetInterface.pdb
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\DotNetInvasiveDataCollector\DotNetInvasiveDataCollector\obj\Release\DotNetInterface.csprojAssemblyReference.cache
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\DotNetInvasiveDataCollector\DotNetInvasiveDataCollector\obj\Release\DotNetInterface.AssemblyInfoInputs.cache
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\DotNetInvasiveDataCollector\DotNetInvasiveDataCollector\obj\Release\DotNetInterface.AssemblyInfo.cs
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\DotNetInvasiveDataCollector\DotNetInvasiveDataCollector\obj\Release\DotNetInterface.csproj.CoreCompileInputs.cache
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\DotNetInvasiveDataCollector\DotNetInvasiveDataCollector\obj\Release\DotNetInterface.dll
+H:\undetected_bruhh\bruhh-bruhhh-master\bruhh-bruhhh-master\Bruhh Bruhhh\DotNetInvasiveDataCollector\DotNetInvasiveDataCollector\obj\Release\DotNetInterface.pdb
