@@ -11,11 +11,13 @@ Bruhh Bruhhh/bin
 *.exe
 *.sys
 *.pdb
+*.ipdb
 *.log
 *.txt
 *.cache
+*.obj
 *.iobj
-*.ipdb
+*.tlog
 
 # User-specific files
 *.rsuser
